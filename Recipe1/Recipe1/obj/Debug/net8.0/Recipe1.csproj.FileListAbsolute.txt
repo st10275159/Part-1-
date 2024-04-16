@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\bin\Debug\net8.0\Recipe1.exe
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\bin\Debug\net8.0\Recipe1.deps.json
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\bin\Debug\net8.0\Recipe1.runtimeconfig.json
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\bin\Debug\net8.0\Recipe1.dll
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\bin\Debug\net8.0\Recipe1.pdb
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.sourcelink.json
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.dll
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\refint\Recipe1.dll
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.pdb
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\Recipe1.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\GitHub\practice-st10275159\Recipe1\Recipe1\obj\Debug\net8.0\ref\Recipe1.dll
